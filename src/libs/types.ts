@@ -5,6 +5,6 @@ export interface termsAndCondsProps {
 
 export interface footerProps {
   year: number,
-  fullName: String,
-  studentId: String
+  fullName: string,
+  studentId: string
 }
